@@ -32,3 +32,6 @@ idée générale :
 profil on peut prendre FB
 geoloc à voir
 voir les APIS necessaires genre celles d'infoconcert
+
+ptete dessiner l'idee generale du truc car flou
+je pense que toutes les idees sont deja presentes dans diverses applis
